@@ -5,6 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neromocon&label=Profile%20views&color=0e75b6&style=flat" alt="neromocon" /> </p>
 
+- 💬 Ask me about **react, persistence and solidity**
+
+- 📫 How to reach me **neromocon@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -17,4 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neromocon&show_icons=true&locale=en" alt="neromocon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neromocon&" alt="neromocon" /></p>
+
 
